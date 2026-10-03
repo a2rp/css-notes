@@ -144,7 +144,7 @@ Other common unitless values include `font-weight: 600`, `opacity: 0.5`, and `z-
 - [CSS values and units](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Values_and_units)
 - [The length type](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/length)
 - [Numeric data types](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Values_and_units/Numeric_data_types)
-- [CSS color values](https://developer.mozilla.org/en-US/docs/Web/CSS/ color_value)
+- [CSS color values](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 - [Container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_queries)
 
 | Previous | Notes index | Next |
