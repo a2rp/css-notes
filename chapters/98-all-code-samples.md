@@ -1173,6 +1173,7 @@ input[type="radio"] {
 }
 
 .card-grid {
+    display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
 }
 ```

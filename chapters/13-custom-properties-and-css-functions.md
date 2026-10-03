@@ -65,6 +65,7 @@ CSS math functions help combine a fixed value with an available size:
 }
 
 .card-grid {
+    display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
 }
 ```
